@@ -78,6 +78,7 @@
         <fullName>Sprint_Wall</fullName>
         <availability>online</availability>
         <displayType>button</displayType>
+        <encodingKey>UTF-8</encodingKey>
         <height>600</height>
         <linkType>url</linkType>
         <masterLabel>Sprint Wall</masterLabel>
